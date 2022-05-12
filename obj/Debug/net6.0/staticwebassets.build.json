@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jOPT85c0EP8Or5zOySsVLMigFRFtWbw5Z6tP4i0lA5Q=",
+  "Source": "API_REST_SQLSERVER",
+  "BasePath": "_content/API_REST_SQLSERVER",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
